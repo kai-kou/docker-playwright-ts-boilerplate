@@ -1,4 +1,4 @@
-import { container } from "./scripts/container.js";
+import { container } from "./container.js";
 import { example } from "./scripts/example.js";
 
 await container(example);
