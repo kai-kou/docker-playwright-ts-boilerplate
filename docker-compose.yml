@@ -1,0 +1,8 @@
+version: "3"
+services:
+  main:
+    build: .
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: npx ts-node --esm src/index.ts

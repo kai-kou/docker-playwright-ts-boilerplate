@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-docker",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {},
+  "author": "msickpaler",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.31.2",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "typescript": "^5.0.2"
+  }
+}
