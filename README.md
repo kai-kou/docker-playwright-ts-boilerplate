@@ -7,7 +7,7 @@ This is simple boilerplate for playwright, docker, typescript.
 ```sh
 git clone https://github.com/msickpaler/docker-playwright-ts-boilerplate.git \
 cd docker-playwright-ts-boilerplate \
-
+npm i \
 docker-compose up
 ```
 
