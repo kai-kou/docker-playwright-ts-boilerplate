@@ -7,4 +7,4 @@ services:
     working_dir: /app
     volumes:
       - .:/app
-    command: npx ts-node --esm src/index.ts
+    command: npx ts-node --esm src/index.ts https://service.aainc.co.jp/product/letro/lpo
